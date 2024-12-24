@@ -66,8 +66,8 @@ The Poultry Monitoring Dashboard was developed as part of a practical exercise t
 - The output files will be saved in the data/ folder.
 
 ### 5. Open the Dashboard
-- Load the visuals/poultry_dashboard.pbix file in PowerBI.
-- Use interactive slicers to explore data trends and analyze farm-specific performance.
+- Load the powerbi_dashboard/poultry_dashboard.pbix file in PowerBI.
+- Use interactive slicer to explore data trends and analyze farm-specific performance.
 
 
 ### 6. Future Enhancements
